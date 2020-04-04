@@ -1,43 +1,61 @@
 [{
-	"file": "2020-01-10_das-neue-jahr-hat-begonnen", "small": "Das neue Jahr"
+	"file": "das-neue-jahr-hat-begonnen", "short": "Das neue Jahr"
 }, {
-	"file": "2019-12-31_hausmittel-termine-2020", "small": "Hausmittel Termine 2020"
+	"file": "hausmittel-termine-2020", "short": "Hausmittel Termine 2020"
 }, {
-	"file": "2019-12-31_heimisches-superfood-kennen-lernen-und-zubereiten-termine", "small": "Superfood zubereiten Termine 2020"
+	"file": "heimisches-superfood-kennen-lernen-und-zubereiten-termine", "short": "Superfood zubereiten Termine 2020"
 }, {
-	"file": "2020-01-10_maerz-2020", "small": "Angebote im März"
+	"file": "maerz-2020", "short": "Angebote im März"
 }, {
-	"file": "2019-12-31_heilsame-wildkraeuter-des-fruehlings", "small" : "Wildkräuter des Frühlings"
+	"file": "heilsame-wildkraeuter-des-fruehlings", "short" : "Wildkräuter des Frühlings", "active": true
 }, {
-	"file": "2019-12-31_wildes-heimisches-superfood-des-fruehlings", "small": "Superfood des Frühlings"
+	"file": "wildes-heimisches-superfood-des-fruehlings", "short": "Superfood des Frühlings", "active": true
 }, {
-	"file": "2019-12-31_heilsame-blueten-und-blaetter", "small": "Heilsame Blüten und Blätter"
+	"file": "heilsame-blueten-und-blaetter", "short": "Heilsame Blüten und Blätter", "active": true
 }, {
-	"file": "2019-12-31_johanniskraeuter", "small": "Johanniskräuter"
+	"file": "johanniskraeuter", "short": "Johanniskräuter", "active": true
 }, {
-	"file": "2019-12-31_wildes-heimisches-superfood-des-sommers", "small": "Superfood des Sommers"
+	"file": "wildes-heimisches-superfood-des-sommers", "short": "Superfood des Sommers", "active": true
 }, {
-	"file": "2019-12-31_heilsame-wildkraeuter-des-sommers", "small": "Heilsame Wildkräuter des Sommers"
+	"file": "heilsame-wildkraeuter-des-sommers", "short": "Heilsame Wildkräuter des Sommers", "active": true
 }, {
-	"file": "2019-12-29_gesunde-wildfruechte", "small": "Gesunde Wildfrüchte"
+	"file": "gesunde-wildfruechte", "short": "Gesunde Wildfrüchte", "active": true
 }, {
-	"file": "2019-12-29_kraeuterboschen", "small": "Der Kräuterboschen"
+	"file": "kraeuterboschen", "short": "Der Kräuterboschen", "active": true
 }, {
-	"file": "2019-12-31_heilsame-wildkraeuter-fuer-den-winter", "small": "Heilsame Wildkräuter für den Winter"
+	"file": "heilsame-wildkraeuter-fuer-den-winter", "short": "Heilsame Wildkräuter für den Winter", "active": true
 }, {
-	"file": "2019-12-31_wildes-heimisches-superfood-im-herbst", "small": "Superfood des Herbstes"
+	"file": "wildes-heimisches-superfood-im-herbst", "short": "Superfood des Herbstes", "active": true
 }, {
-	"file": "2020-01-11_du-suchst-ein-geschenk", "small": "Du suchst ein Geschenk?"
+	"file": "du-suchst-ein-geschenk", "short": "Du suchst ein Geschenk?", "active": true
 }, {
-	"file": "2020-01-10_stammtisch-westallgaeu-2019", "small": "Kräuterstammtisch 2019"
+	"file": "stammtisch-westallgaeu-2019", "short": "Kräuterstammtisch 2019", "active": true
 }, {
-	"file": "2019-12-31_kraeuter-workshops-und-kurse", "small": "Workshops & Kurse"
+	"file": "kraeuter-workshops-und-kurse", "short": "Workshops & Kurse", "active": true
 }, {
-	"file": "2019-12-31_angebot-superfood-in-deinem-garten", "small": "Superfood in deinem Garten"
+	"file": "angebot-superfood-in-deinem-garten", "short": "Superfood in deinem Garten", "active": true
 }, {
-	"file": "2019-12-31_junggesellenabschied", "small": "Junggesellenabschied"
+	"file": "junggesellenabschied", "short": "Junggesellenabschied", "active": true
 }, {
-	"file": "2019-12-31_genuesse-aus-der-wilden-kraeuterkueche", "small": "Genüsse aus der Kräuterküche"
+	"file": "genuesse-aus-der-wilden-kraeuterkueche", "short": "Genüsse aus der Kräuterküche", "active": true
 }, {
-	"file": "2019-12-29_wachsen-und-werden", "small": "Wachsen und Werden"
+	"file": "wachsen-und-werden", "short": "Wachsen und Werden", "active": true
+}, {
+	"file": "abwarten-und-tee-trinken", "short": "Abwarten und Tee trinken", "active": false
+}, {
+	"file": "advent-im-kornhaus", "short": "Advent im Kornhaus", "active": false
+}, {
+	"file": "fruehlingskraft", "short": "Frühlingskraft", "active": false
+}, {
+	"file": "ich-weiss-nicht", "short": "Ich weiss nicht", "active": false
+}, {
+	"file": "kraeuterfuehrungen-termine-2018", "short": "Kräuterführungen Termine 2018", "active": false
+}, {
+	"file": "kraeuterstammtisch", "short": "Kräuterstammtisch", "active": false
+}, {
+	"file": "noch-ist-winter", "short": "Noch ist Winter", "active": false
+}, {
+	"file": "pflanzen-rendezvous-lungenkraut", "short": "Pflanzen-Rendezvous: Lungenkraut", "active": false
+}, {
+	"file": "oxymel", "short": "Oxymel", "active": false
 }]
