@@ -1,11 +1,11 @@
 [{
-	"file": "das-neue-jahr-hat-begonnen", "short": "Das neue Jahr"
+	"file": "das-neue-jahr-hat-begonnen", "short": "Das neue Jahr", "active": true
 }, {
-	"file": "hausmittel-termine-2020", "short": "Hausmittel Termine 2020"
+	"file": "hausmittel-termine-2020", "short": "Hausmittel Termine 2020", "active": true
 }, {
-	"file": "heimisches-superfood-kennen-lernen-und-zubereiten-termine", "short": "Superfood zubereiten Termine 2020"
+	"file": "heimisches-superfood-kennen-lernen-und-zubereiten-termine", "short": "Superfood zubereiten Termine 2020", "active": true
 }, {
-	"file": "maerz-2020", "short": "Angebote im März"
+	"file": "maerz-2020", "short": "Angebote im März", "active": true
 }, {
 	"file": "heilsame-wildkraeuter-des-fruehlings", "short" : "Wildkräuter des Frühlings", "active": true
 }, {
