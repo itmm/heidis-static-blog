@@ -1,1 +1,226 @@
-[{"file":"wieder-fuehrungen","full":"Endlich gibt es wieder Kräuterführungen!","short":"Wieder Kräuterführungen","active":true,"index":true},{"file":"hausmittel-termine-2020","full":"Hausmittel aus Kräutern selber herstellen - Termine 2020","short":"Hausmittel Termine 2020","active":true,"index":false},{"file":"heimisches-superfood-kennen-lernen-und-zubereiten-termine","full":"Heimisches Superfood kennen lernen und zubereiten - Termine 2020","short":"Superfood zubereiten Termine 2020","active":true,"index":false},{"file":"maerz-2020","full":"Angebote im März 2020","short":"Angebote im März","active":false,"index":false},{"file":"heilsame-wildkraeuter-des-fruehlings","full":"Heilsame Wildkräuter des Frühlings","short":"Wildkräuter des Frühlings","active":false,"index":false},{"file":"wildes-heimisches-superfood-des-fruehlings","full":"Wildes heimisches Superfood des Frühlings","short":"Superfood des Frühlings","active":false,"index":false},{"file":"heilsame-blueten-und-blaetter","full":"Heilsame Blüten und Blätter","short":"Heilsame Blüten und Blätter","active":false,"index":false},{"file":"johanniskraeuter","full":"Johanniskräuter - die Sonnenkraft speichern","short":"Johanniskräuter","active":false,"index":false},{"file":"wildes-heilsames-superfood-des-sommers","full":"Wildes heilsames Superfood des Sommers","short":"Wildes heilsames Superfood des Sommers","active":false,"index":false},{"file":"heilsame-blueten-des-sommers","full":"Heilsame Blüten und Kräuter des Sommers","short":"Heilsame Blüten und Kräuter des Sommers","active":false,"index":false},{"file":"kraeuterboschen","full":"Der Kräuterboschen, die Hausapotheke unserer Vorfahren","short":"Der Kräuterboschen","active":false,"index":false},{"file":"gesunde-wildfruechte","full":"Gesunde Wildfrüchte in Wald und Wiese","short":"Gesunde Wildfrüchte","active":false,"index":false},{"file":"oxymel","full":"Mit Oxymel durchs Kräuterjahr","short":"Mit Oxymel durchs Kräuterjahr","active":true,"index":false},{"file":"heilsame-wildkraeuter-fuer-den-winter","full":"Heilsame Wildkräuter für den Winter","short":"Heilsame Wildkräuter für den Winter","active":true,"index":false},{"file":"wildes-heimisches-superfood-im-herbst","full":"Wildes heimisches Superfood im Herbst","short":"Superfood des Herbstes","active":true,"index":false},{"file":"kraeuterstammtisch-westallgaeu","full":"Kräuterland-Stammtisch Westallgäu","short":"Kräuterstammtisch Westallgäu 2020","active":true,"index":false},{"file":"du-suchst-ein-geschenk","full":"Du suchst ein Geschenk?","short":"Du suchst ein Geschenk?","active":false,"index":false},{"file":"kraeuter-workshops-und-kurse","full":"Kräuter-Workshops und Kurse","short":"Workshops & Kurse","active":true,"index":false},{"file":"angebot-superfood-in-deinem-garten","full":"Aktuelles Angebot: Superfood in deinem Garten:","short":"Superfood in deinem Garten","active":true,"index":false},{"file":"junggesellenabschied","full":"Jungesellenabschied oder good bye bachelor","short":"Junggesellenabschied","active":true,"index":false},{"file":"genuesse-aus-der-wilden-kraeuterkueche","full":"Genüsse aus der wilden Kräuterküche","short":"Genüsse aus der wilden Kräuterküche","active":true,"index":false},{"file":"Buchtipp-typisch-allgaeu","full":"Buchtipp:Typisch Allgäu","short":"Buchtipp: Typisch Allgäu","active":true,"index":false},{"file":"wachsen-und-werden","full":"Wachsen und Werden","short":"Wachsen und Werden","active":true,"index":false},{"file":"das-neue-jahr-hat-begonnen","full":"Das neue Jahr hat begonnen","short":"Das neue Jahr","active":false,"index":false},{"file":"keine-kurse","full":"Weiterhin keine Kursu und Führungen für die Allgäuer Kraftquelle","short":"Weiterhin keine Kurse","active":false,"index":false},{"file":"abwarten-und-tee-trinken","full":"Abwarten und Tee trinken - mit heimischen Kräutern gesund durch den Winter","short":"Abwarten und Tee trinken","active":false,"index":false},{"file":"advent-im-kornhaus","full":"Advent im Kornhaus - in dulci jubilo","short":"Advent im Kornhaus","active":false,"index":false},{"file":"fruehlingskraft","full":"Frühlingskraft für die ganze Familie","short":"Frühlingskraft","active":false,"index":false},{"file":"ich-weiss-nicht","full":"… ich weiß nicht, was ich schenken soll!","short":"Ich weiss nicht","active":false,"index":false},{"file":"stammtisch-westallgaeu-2019","full":"Stammtisch-Westallgäu 2019 – Rückblick und Ausschau","short":"Kräuterstammtisch 2019","active":false,"index":false},{"file":"kraeuterfuehrungen-termine-2018","full":"Kräuterführungen - Termine 2018","short":"Kräuterführungen Termine 2018","active":false,"index":false},{"file":"noch-ist-winter","full":"noch ist Winter, aber der Frühling naht …","short":"Noch ist Winter","active":false,"index":false},{"file":"pflanzen-rendezvous-lungenkraut","full":"Pflanzen-Rendezvous: Lungenkraut","short":"Pflanzen-Rendezvous: Lungenkraut","active":false,"index":false}]
+[
+    {
+        "file": "2020-geht-zu-Ende-was-kommt",
+        "full": "2020 geht zu Ende - was kommt?",
+        "short": "2020 geht zu Ende - was kommt",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "du-suchst-ein-geschenk",
+        "full": "Du suchst ein Geschenk?",
+        "short": "Du suchst ein Geschenk?",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "ich-weiss-nicht",
+        "full": "\u2026 ich wei\u00df nicht, was ich schenken soll!",
+        "short": "Ich weiss nicht",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "hausmittel-termine-2021",
+        "full": "Hausmittel aus Kr\u00e4utern selber herstellen - Termine 2021",
+        "short": "Hausmittel Termine 2021",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "heimisches-superfood-kennen-lernen-und-zubereiten-termine",
+        "full": "Heimisches Superfood kennen lernen und zubereiten - Termine 2020",
+        "short": "Superfood zubereiten Termine 2021",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "veranstaltungen-im-maerz-2021",
+        "full": "Angebote im M\u00e4rz 2021",
+        "short": "Veranstaltungen im M\u00e4rz 2021",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "fruehlingskraft-fuerdieganzefamilie",
+        "full": "Fr\u00fchlingskraft f\u00fcr die ganze Familie",
+        "short": "Fr\u00fchlingskraft f\u00fcr die ganze Familie",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "lungenkraut-pflanzenrendevous-2021",
+        "full": "Pflanzenrendevous Lungenkraut 2021",
+        "short": "Lungenkraut Pflanzenrendevous 2021",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "allgaeuer-brauchtum",
+        "full": "Allg\u00e4uer Brauchtum 2021",
+        "short": "Allg\u00e4uer Brauchtum",
+        "active": false,
+        "index": false
+    },
+    {
+        "file": "heilsame-wildkraeuter-des-fruehlings",
+        "full": "Heilsame Wildkr\u00e4uter des Fr\u00fchlings",
+        "short": "Wildkr\u00e4uter des Fr\u00fchlings",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "wildes-heimisches-superfood-des-fruehlings",
+        "full": "Wildes heimisches Superfood des Fr\u00fchlings",
+        "short": "Superfood des Fr\u00fchlings",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "heilsame-blueten-und-blaetter",
+        "full": "Heilsame Bl\u00fcten und Bl\u00e4tter",
+        "short": "Heilsame Bl\u00fcten und Bl\u00e4tter",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "johanniskraeuter",
+        "full": "Johanniskr\u00e4uter - die Sonnenkraft speichern",
+        "short": "Johanniskr\u00e4uter",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "wildes-heimisches-superfood-des-sommers",
+        "full": "Wildes heimisches Superfood des Sommers",
+        "short": "Wildes heimisches  Superfood des Sommers",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "heilsame-wildkraeuter-des-sommers",
+        "full": "Heilsame Wildkr\u00e4uter des Sommers nach Pfarrer Kneipp",
+        "short": "Heilsame Wildkr\u00e4uter des Sommers",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "kraeuterboschen-die-hausapotheke-unserer-vorfahren",
+        "full": "Der Kr\u00e4uterboschen, die Hausapotheke unserer Vorfahren",
+        "short": "Der Kr\u00e4uterboschen, die Hausapotheke unserer Vorfahren",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "gesunde-wildfruechte-in-wald-und-wiese",
+        "full": "Gesunde Wildfr\u00fcchte in Wald und Wiese",
+        "short": "Gesunde Wildfr\u00fcchte in Wald und Wiese",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "oxymel",
+        "full": "Mit Oxymel durchs Kr\u00e4uterjahr",
+        "short": "Mit Oxymel durchs Kr\u00e4uterjahr",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "Traditionelle-Wildkraeuterapotheke-fuer-den-winter",
+        "full": "Traditionelle Wildkr\u00e4uterapotheke f\u00fcr den Winter",
+        "short": "Traditionelle Wildkr\u00e4uterapotheke f\u00fcr den Winter",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "die-tradition-des-raeucherns-im-jahreskreis",
+        "full": "Die Tradition des R\u00e4ucherns im Jahreskreis",
+        "short": "Die Tradition des R\u00e4ucherns im Jahreskreis",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "kraeuterstammtisch-westallgaeu",
+        "full": "Kr\u00e4uterland-Stammtisch Westallg\u00e4u",
+        "short": "Kr\u00e4uterstammtisch Westallg\u00e4u 2020",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "kraeuter-workshops-und-kurse",
+        "full": "Kr\u00e4uter-Workshops und Kurse",
+        "short": "Workshops & Kurse",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "angebot-superfood-in-deinem-garten",
+        "full": "Aktuelles Angebot: Superfood in deinem Garten:",
+        "short": "Superfood in deinem Garten",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "junggesellenabschied",
+        "full": "Jungesellenabschied oder good bye bachelor",
+        "short": "Junggesellenabschied",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "genuesse-aus-der-wilden-kraeuterkueche",
+        "full": "Gen\u00fcsse aus der wilden Kr\u00e4uterk\u00fcche",
+        "short": "Gen\u00fcsse aus der wilden Kr\u00e4uterk\u00fcche",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "Buchtipp-typisch-allgaeu",
+        "full": "Buchtipp:Typisch Allg\u00e4u",
+        "short": "Buchtipp: Typisch Allg\u00e4u",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "wachsen-und-werden",
+        "full": "Wachsen und Werden",
+        "short": "Wachsen und Werden",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "das-neue-jahr-hat-begonnen",
+        "full": "Das neue Jahr hat begonnen",
+        "short": "Das neue Jahr",
+        "active": false,
+        "index": false
+    },
+    {
+        "file": "abwarten-und-tee-trinken",
+        "full": "Abwarten und Tee trinken - mit heimischen Kr\u00e4utern gesund durch den Winter",
+        "short": "Abwarten und Tee trinken",
+        "active": true,
+        "index": false
+    },
+    {
+        "file": "stammtisch-westallgaeu-2019",
+        "full": "Stammtisch-Westallg\u00e4u 2019 \u2013 R\u00fcckblick und Ausschau",
+        "short": "Kr\u00e4uterstammtisch 2019",
+        "active": false,
+        "index": false
+    },
+    {
+        "file": "wieder-fuehrungen",
+        "full": "Endlich gibt es wieder Kr\u00e4uterf\u00fchrungen!",
+        "short": "Wieder Kr\u00e4uterf\u00fchrungen",
+        "active": false,
+        "index": true
+    },
+    {
+        "file": "noch-ist-winter",
+        "full": "noch ist Winter, aber der Fr\u00fchling naht \u2026",
+        "short": "Noch ist Winter",
+        "active": false,
+        "index": false
+    }
+]
